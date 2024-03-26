@@ -9,7 +9,7 @@
   publisher={IEEE}
 }
 
-The present approach is compared by impelemting these papers 
+The present approach is compared by implementing these papers 
 1. @article{jing2007entropy,
   title={An entropy weighting k-means algorithm for subspace clustering of high-dimensional sparse data},
   author={Jing, Liping and Ng, Michael K and Huang, Joshua Zhexue},
