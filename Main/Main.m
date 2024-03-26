@@ -9,7 +9,7 @@ M = 2;   % fuzzification parameter must be greater than one
 maxIter = 10000;
 minImprove = 1e-6;
 clusteringOptions = [M maxIter minImprove true];
-[gamma, center, U, W, distout] = SCADCul(X,Nc,clusteringOptions);  % agglomerative fuzzy k menas
+[gamma, center, U, W, distout] = SCADCul(X,Nc,clusteringOptions);  % this function also have SCAD1 and SCAD2
 [maxU , index]= max(U);
 [val1, index1] = find(U(1,:) == maxU);
 [val2, index2] = find(U(2,:) == maxU);
