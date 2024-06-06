@@ -1,3 +1,6 @@
+# Gene expression data analysis
+Vikas Singh
+
 @article{singh2022gene,
   title={Gene expression data analysis using feature weighted robust Fuzzy-Means clustering},
   author={Singh, Vikas and Verma, Nishchal K},
@@ -8,8 +11,11 @@
   year={2022},
   publisher={IEEE}
 }
+## Installation
+Download: https://github.com/vikkyak/Clustering_of_microarray_data/archive/refs/heads/main.zip
 
-The present approach is compared by implementing these papers 
+### Comparisons
+The present approach is compared by implementing these papers: 
 1. @article{jing2007entropy,
   title={An entropy weighting k-means algorithm for subspace clustering of high-dimensional sparse data},
   author={Jing, Liping and Ng, Michael K and Huang, Joshua Zhexue},
