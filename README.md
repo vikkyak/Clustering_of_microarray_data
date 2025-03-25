@@ -11,8 +11,31 @@ Vikas Singh
   year={2022},
   publisher={IEEE}
 }
-## Installation
-Download: https://github.com/vikkyak/Clustering_of_microarray_data/archive/refs/heads/main.zip
+# 🔬 Clustering of Microarray Data
+
+This repository provides scripts and tools for clustering microarray gene expression data using various unsupervised learning methods (e.g., k-means, hierarchical clustering, biclustering, Fuzzy C-means, etc.).
+
+---
+
+## 🧬 Features
+
+- Clustering of gene expression data
+- Biclustering support
+- Fuzzy clustering options
+- Evaluation of clustering performance
+- Preprocessing and normalization utilities
+
+---
+
+## 🛠️ Installation
+
+📥 **[Download ZIP](https://github.com/vikkyak/Clustering_of_microarray_data/archive/refs/heads/main.zip)**
+
+Or clone the repository via Git:
+
+```bash
+git clone https://github.com/vikkyak/Clustering_of_microarray_data.git
+
 
 ### Comparisons
 The present approach is compared by implementing these papers: 
