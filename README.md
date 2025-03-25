@@ -1,27 +1,21 @@
-# Gene expression data analysis
-Vikas Singh
 
-@article{singh2022gene,
-  title={Gene expression data analysis using feature weighted robust Fuzzy-Means clustering},
-  author={Singh, Vikas and Verma, Nishchal K},
-  journal={IEEE Transactions on NanoBioscience},
-  volume={22},
-  number={1},
-  pages={99--105},
-  year={2022},
-  publisher={IEEE}
-}
-# 🔬 Clustering of Microarray Data
+# 🔬 Gene Expression Data Analysis
 
-This repository provides scripts and tools for clustering microarray gene expression data using various unsupervised learning methods (e.g., k-means, hierarchical clustering, biclustering, Fuzzy C-means, etc.).
+This repository provides scripts and tools for **clustering microarray gene expression data** using various unsupervised learning methods such as:
+
+- K-means
+- Hierarchical clustering
+- Biclustering
+- Fuzzy C-means
+- Feature-weighted robust fuzzy clustering
 
 ---
 
 ## 🧬 Features
 
 - Clustering of gene expression data
-- Biclustering support
-- Fuzzy clustering options
+- Support for biclustering and fuzzy clustering
+- Feature-weighted robust Fuzzy C-means implementation
 - Evaluation of clustering performance
 - Preprocessing and normalization utilities
 
@@ -29,7 +23,7 @@ This repository provides scripts and tools for clustering microarray gene expres
 
 ## 🛠️ Installation
 
-📥 **[Download ZIP](https://github.com/vikkyak/Clustering_of_microarray_data/archive/refs/heads/main.zip)**
+### 📥 [Download ZIP](https://github.com/vikkyak/Clustering_of_microarray_data/archive/refs/heads/main.zip)
 
 Or clone the repository via Git:
 
@@ -37,45 +31,32 @@ Or clone the repository via Git:
 git clone https://github.com/vikkyak/Clustering_of_microarray_data.git
 
 
+📊 Comparisons
+The proposed method has been compared with the following published algorithms:
 
-## 📊 **Comparisons**
+Entropy Weighting K-Means for Subspace Clustering
+Jing, L., Ng, M. K., & Huang, J. Z. (2007).
+An entropy weighting k-means algorithm for subspace clustering of high-dimensional sparse data.
+IEEE Transactions on Knowledge and Data Engineering, 19(8), 1026–1041.
 
+Agglomerative Fuzzy K-Means Clustering
+Li, M. J., Ng, M. K., Cheung, Y.-m., & Huang, J. Z. (2008).
+Agglomerative fuzzy k-means clustering algorithm with selection of number of clusters.
+IEEE Transactions on Knowledge and Data Engineering, 20(11), 1519–1534.
 
-The present approach is compared by implementing these papers: 
-@article{jing2007entropy,
-  title={An entropy weighting k-means algorithm for subspace clustering of high-dimensional sparse data},
-  author={Jing, Liping and Ng, Michael K and Huang, Joshua Zhexue},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume={19},
-  number={8},
-  pages={1026--1041},
-  year={2007},
-  publisher={IEEE}
-}
+Unsupervised Learning of Prototypes and Attribute Weights
+Frigui, H., & Nasraoui, O. (2004).
+Unsupervised learning of prototypes and attribute weights.
+Pattern Recognition, 37(3), 567–581.
 
-@article{li2008agglomerative,
-  title={Agglomerative fuzzy k-means clustering algorithm with selection of number of clusters},
-  author={Li, Mark Junjie and Ng, Michael K and Cheung, Yiu-ming and Huang, Joshua Zhexue},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume={20},
-  number={11},
-  pages={1519--1534},
-  year={2008},
-  publisher={IEEE}
-}
+📖 Citation
+If you use this repository or methods in your research, please cite the following paper:
 
-@article{frigui2004unsupervised,
-  title={Unsupervised learning of prototypes and attribute weights},
-  author={Frigui, Hichem and Nasraoui, Olfa},
-  journal={Pattern Recognition},
-  volume={37},
-  number={3},
-  pages={567--581},
-  year={2004},
-  publisher={Elsevier}
-}
+Vikas Singh and Nishchal K. Verma
+Gene expression data analysis using feature weighted robust Fuzzy-Means clustering.
+IEEE Transactions on NanoBioscience, 22(1), 99–105, 2022.
+📄 DOI: 10.1109/TNB.2022.3141237
 
-👤 **Author**
+👤 Author
 Vikas Singh
 📧 vikkysingh07@gmail.com
-
