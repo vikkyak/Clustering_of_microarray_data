@@ -38,32 +38,35 @@ git clone https://github.com/vikkyak/Clustering_of_microarray_data.git
 
 
 
-### Comparisons
+📊 Comparisons
+
 The present approach is compared by implementing these papers: 
-1. @article{jing2007entropy,
+@article{jing2007entropy,
   title={An entropy weighting k-means algorithm for subspace clustering of high-dimensional sparse data},
   author={Jing, Liping and Ng, Michael K and Huang, Joshua Zhexue},
-  journal={IEEE Transactions on knowledge and data engineering},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
   volume={19},
   number={8},
   pages={1026--1041},
   year={2007},
   publisher={IEEE}
 }
-2. @article{li2008agglomerative,
+
+@article{li2008agglomerative,
   title={Agglomerative fuzzy k-means clustering algorithm with selection of number of clusters},
   author={Li, Mark Junjie and Ng, Michael K and Cheung, Yiu-ming and Huang, Joshua Zhexue},
-  journal={IEEE transactions on knowledge and data engineering},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
   volume={20},
   number={11},
   pages={1519--1534},
   year={2008},
   publisher={IEEE}
 }
-3. @article{frigui2004unsupervised,
+
+@article{frigui2004unsupervised,
   title={Unsupervised learning of prototypes and attribute weights},
   author={Frigui, Hichem and Nasraoui, Olfa},
-  journal={Pattern recognition},
+  journal={Pattern Recognition},
   volume={37},
   number={3},
   pages={567--581},
