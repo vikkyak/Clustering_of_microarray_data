@@ -38,7 +38,8 @@ git clone https://github.com/vikkyak/Clustering_of_microarray_data.git
 
 
 
-📊 Comparisons
+## 📊 **Comparisons**
+
 
 The present approach is compared by implementing these papers: 
 @article{jing2007entropy,
@@ -74,7 +75,7 @@ The present approach is compared by implementing these papers:
   publisher={Elsevier}
 }
 
-👤 Author
+👤 **Author**
 Vikas Singh
 📧 vikkysingh07@gmail.com
 
